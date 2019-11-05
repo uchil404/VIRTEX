@@ -1,5 +1,5 @@
 # VIRTEX
-Virtex for Whatsapp
+# Virtex for Whatsapp
 
 apt update && apt upgrade
 
@@ -13,7 +13,7 @@ apt install ruby
 
 gem install lolcat
 
-git clone https://github.com/muhammadfathul/VIRTEX
+git clone https://github.com/uchil404/VIRTEX
 
 cd VIRTEX
 
